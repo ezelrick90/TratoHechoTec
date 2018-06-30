@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">TratoHechoTec</string>
+    <string name="user_label_text">Usuario</string>
+    <string name="password_label_text">Password</string>
+    <string name="login_label_button">INGRESAR</string>
+    <string name="register_label_button">REGISTRARSE</string>
+    <string name="rememberpwd_label_button">Recordar contraseña</string>
+    <string name="title_activity_main">Trato Hecho Tec</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_favorites">Favorites</string>
+    <string name="title_settings">Settings</string>
+    <string name="title_schedule">Schedule</string>
+    <string name="title_checklist">Checklist</string>
+    <string name="title_profile">Profile</string>
+    <string name="mock_text">mockText</string>
+    <string name="schedule_button">Ver Trabajo</string>
+    <string name="problem_button">Ver Problema</string>
+    <string name="title_label">Título</string>
+    <string name="customer_label">Cliente</string>
+    <string name="description_label">Descripción</string>
+    <string name="quotation_label">Cotización</string>
+    <string-array name="quotations_states_array">
+        <item>Todos</item>
+        <item>Pendientes</item>
+        <item>Desaprobados</item>
+        <item>Aprobados</item>
+    </string-array>
+    <string name="title_activity_new_quotation">NewQuotationActivity</string>
+    <string name="price_label">Costo</string>
+    <string name="includes_materials_label">Incluye Materiales</string>
+    <string name="login_label">Login</string>
+    <string name="password_label">Password</string>
+    <string name="name_label">Nombres</string>
+    <string name="last_names_label">Apellidos</string>
+    <string name="email_label">Email</string>
+    <string name="company_label">Empresa</string>
+    <string name="service_label">Servicio</string>
+    <string name="settings_title_label">Recibir notificaciones por:</string>
+    <string name="settings_quotation_solicitude_label">Solicitud de Cotización</string>
+    <string name="settings_customer_answer_label">Respuesta del Cliente</string>
+</resources>
